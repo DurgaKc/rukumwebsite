@@ -83,3 +83,24 @@ p {
 }
 
 /* employee.html */
+
+
+/* upperarrow */
+
+/* #backToTop {
+
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    z-index: 99;
+    right: 30px;
+    border:none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border-radius: 50%;
+    height:7%;
+    width: 3%;
+    
+} */
